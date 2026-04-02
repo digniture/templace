@@ -1,7 +1,7 @@
+Templace 1.0
 PHP Template Engine (Lightweight)
 
 A simple, lightweight PHP template engine with support for variables, conditionals, loops, arrays, themes, includes, and partials.
-
 Built for developers who want a clean templating system without heavy dependencies.
 
 ✨ Features
@@ -33,6 +33,7 @@ Built for developers who want a clean templating system without heavy dependenci
 🚀 Installation
 Clone the repository:
 git clone https://github.com/yourusername/php-template-engine.git
+
 Include the engine:
 require 'Template.php';
 
